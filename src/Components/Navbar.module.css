@@ -1,0 +1,11 @@
+.header {
+    background-color: #F7D794; /* Naranja claro */
+  }
+  
+  .nav-link {
+    color: #576574; /* Gris claro */
+  }
+  
+  .nav-link:hover {
+    color: #EA7773; /* Naranja claro al pasar el ratón por encima */
+  }
